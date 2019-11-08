@@ -1,0 +1,1 @@
+* * * * * lckdo /tmp/autoattach.lock bash -c "/home/sky/.conda/envs/py3.6/bin/python /home/sky/mygit/Automail/autoattach.py " 
