@@ -1,0 +1,12 @@
+# copy this file to config.yaml and modify it to use
+savepath: savepath
+emails:
+  sci:
+    address: a@b.com
+    password: pass
+pop3:
+  126.com: pop3.126.com
+  mails.tsinghua.edu.cn: mails.tsinghua.edu.cn
+iamp:
+  126.com: iamp.126.com
+  mails.iamp.edu.cn: mails.tsinghua.edu.cn
